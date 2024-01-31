@@ -3,3 +3,5 @@ git commit
 git pull
 git push
 git --version
+a summary (100 words) of what you learned in
+today's lecture.
